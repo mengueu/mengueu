@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+Vindo!&color=FF0000&size=38&pause=1000&center=false&vCenter=false&ramdom=false)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+Vindo!&color=FFFFFF&size=38&pause=1000&center=false&vCenter=false&ramdom=false)](https://git.io/typing-svg)
 
 # 👨‍💻Miguel Augusto Rocha
 
