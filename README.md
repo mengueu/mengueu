@@ -2,7 +2,7 @@
 
 # 👨‍💻Miguel Augusto Rocha
 
-Meu nome é Miguel, tenho 17 anos e sou nascido e criado no interior de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pelo SENAI. Gosto muito de tecnologia e busco sempre aprender e estar cada vez mais atualizado. 
+Meu nome é Miguel, tenho 17 anos e sou nascido e criado no interior de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pelo SENAI. Gosto muito de tecnologia, busco sempre aprender e estar cada vez mais atualizado. 
 
 ## Experiências
 <div style="display: inline_block"><br>
