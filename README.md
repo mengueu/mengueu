@@ -16,6 +16,7 @@ Meu nome é Miguel, tenho 17 anos e sou nascido e criado no interior de São Pau
 
 ## Me chame!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miguelito_rochaa)
+[![Linkedin](https://img.shields.io/badge/Linkedin-1586D6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-augusto-rocha-a7289735b/)
 <a href = "mailto:miguelaugustorocha2008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
 ---
