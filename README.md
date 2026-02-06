@@ -1,8 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print('Bem+Vindo!')&color=FFFFFF&size=38&pause=1000&center=false&vCenter=false&ramdom=false)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print('Bem+Vindo!')&color=FFFF00&size=38&pause=1000&center=false&vCenter=false&ramdom=false)](https://git.io/typing-svg)
 <h1 align="center">👨‍💻Miguel Augusto Rocha</h1>
-
-###
 
 <p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas pelo SENAI, com forte interesse em tecnologia e aprendizado contínuo. Utilizo este perfil para estudar, registrar projetos, experimentos e minha evolução na área de desenvolvimento e robótica.</p>
 
