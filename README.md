@@ -1,4 +1,4 @@
-<img align="right" height="150" src="https://i.pinimg.com/originals/6d/0c/99/6d0c99bf3432ae8f447d2b3f8d1319aa.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/6d/0c/99/6d0c99bf3432ae8f447d2b3f8d1319aa.gif"  /> <br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=print('Bem+Vindo!')&color=FFFF00&size=38&pause=1000&center=false&vCenter=false&random=false">
@@ -8,11 +8,12 @@
 
 <h1 align="center">👨‍💻Miguel Augusto Rocha</h1>
 
-<p align="left">Sou estudante de Desenvolvimento de Sistemas pelo SENAI, com forte interesse em tecnologia e aprendizado contínuo. Utilizo este perfil para estudar, registrar projetos, experimentos e minha evolução na área de desenvolvimento, automação e robótica.</p>
+<p align="left">🇧🇷: Sou estudante de Desenvolvimento de Sistemas pelo SENAI, com forte interesse em tecnologia e aprendizado contínuo. Utilizo este perfil para estudar, registrar projetos, experimentos e minha evolução na área de desenvolvimento, automação e robótica.</p>
+<p align="left">🇺🇸: I am a Systems Development student at SENAI, with a strong interest in technology and continuous learning. I use this profile to study, document projects, experiments, and my progress in the areas of development, automation, and robotics.</p>
 
 ###
 
-<h3 align="left">Experiências</h3>
+<h3 align="left">Experiências / Experiences</h3>
 
 ###
 
