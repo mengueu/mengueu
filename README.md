@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=print('Bem+Vindo!')&color=000000&size=38&pause=1000&center=false&vCenter=false&random=false" />
 </picture>
 
-<h1 align="center">👨‍💻Miguel Augusto Rocha</h1>
+<h1 align="left">👨‍💻Miguel Augusto Rocha</h1>
 
 <p align="left">🇧🇷: Sou estudante de Desenvolvimento de Sistemas pelo SENAI, com forte interesse em tecnologia e aprendizado contínuo. Utilizo este perfil para estudar, registrar projetos, experimentos e minha evolução na área de desenvolvimento, automação e robótica.</p>
 <p align="left">🇺🇸: I am a Systems Development student at SENAI, with a strong interest in technology and continuous learning. I use this profile to study, document projects, experiments, and my progress in the areas of development, automation, and robotics.</p>
