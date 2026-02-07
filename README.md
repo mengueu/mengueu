@@ -1,7 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print('Bem+Vindo!')&color=FFFF00&size=38&pause=1000&center=false&vCenter=false&ramdom=false)](https://git.io/typing-svg)
+<img align="right" height="150" src="https://i.pinimg.com/originals/6d/0c/99/6d0c99bf3432ae8f447d2b3f8d1319aa.gif"  />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=print('Bem+Vindo!')&color=FFFF00&size=38&pause=1000&center=false&vCenter=false&random=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=print('Bem+Vindo!')&color=000000&size=38&pause=1000&center=false&vCenter=false&random=false">
+  <img src="https://readme-typing-svg.demolab.com/?lines=print('Bem+Vindo!')&color=000000&size=38&pause=1000&center=false&vCenter=false&random=false" />
+</picture>
+
 <h1 align="center">👨‍💻Miguel Augusto Rocha</h1>
 
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas pelo SENAI, com forte interesse em tecnologia e aprendizado contínuo. Utilizo este perfil para estudar, registrar projetos, experimentos e minha evolução na área de desenvolvimento e robótica.</p>
+<p align="left">Sou estudante de Desenvolvimento de Sistemas pelo SENAI, com forte interesse em tecnologia e aprendizado contínuo. Utilizo este perfil para estudar, registrar projetos, experimentos e minha evolução na área de desenvolvimento, automação e robótica.</p>
 
 ###
 
@@ -30,7 +37,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo" />
+  </picture>
 </div>
 
 ###
@@ -45,3 +56,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mengueu/mengueu/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mengueu/mengueu/output/pacman-contribution-graph.svg">
 </picture>
+
