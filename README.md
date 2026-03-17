@@ -1,9 +1,9 @@
 <img align="right" height="150" src="https://i.pinimg.com/originals/6d/0c/99/6d0c99bf3432ae8f447d2b3f8d1319aa.gif"  /> <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=print('Bem+Vindo!')&color=FFFF00&size=38&pause=1000&center=false&vCenter=false&random=false">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=print('Bem+Vindo!')&color=000000&size=38&pause=1000&center=false&vCenter=false&random=false">
-  <img src="https://readme-typing-svg.demolab.com/?lines=print('Bem+Vindo!')&color=000000&size=38&pause=1000&center=false&vCenter=false&random=false" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=print('Welcome!')&color=FFFF00&size=38&pause=1000&center=false&vCenter=false&random=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=print('Welcome!')&color=000000&size=38&pause=1000&center=false&vCenter=false&random=false">
+  <img src="https://readme-typing-svg.demolab.com/?lines=print('Welcome!')&color=000000&size=38&pause=1000&center=false&vCenter=false&random=false" />
 </picture>
 
 <h1 align="left">👨‍💻Miguel Augusto Rocha</h1>
