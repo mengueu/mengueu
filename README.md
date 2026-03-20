@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="left">Experiências / Experiences</h3>
+<h3 align="left">Linguagens / Languages</h3>
 
 ###
 
@@ -22,11 +22,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="60" alt="arduino logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/markdown/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="60" alt="markdown logo"  />
+  </picture>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
   <img width="12" />
@@ -46,6 +50,23 @@
 </div>
 
 ###
+
+<h3 align="left">Ferramentas / Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="60" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <picture>
+
+###
+    
 ---
 [![Linkedin](https://img.shields.io/badge/Linkedin-1586D6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-augusto-rocha-a7289735b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miguelito_rochaa)
