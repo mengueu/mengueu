@@ -73,6 +73,8 @@
 ---
 <div align="center">
 
+<p>Connect with me!</p>
+
 [![Linkedin](https://img.shields.io/badge/Linkedin-1586D6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-augusto-rocha)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miguelito_rochaa)
 <a href="mailto:miguelaugustorocha2008@gmail.com">
