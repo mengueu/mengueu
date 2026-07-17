@@ -9,10 +9,10 @@
 <h1 align="left">Miguel Augusto Rocha</h1>
 
 <p align="left">
-  <img src="https://flagcdn.com/w20/br.png"> : Sou estudante de Desenvolvimento de Sistemas pelo SENAI, com forte interesse em engenharia, tecnologia e aprendizado contínuo. Utilizo este perfil para estudar, registrar projetos, experimentos e minha evolução na área de desenvolvimento, automação e robótica.
+  <img src="https://flagcdn.com/w20/us.png"> : I am a Systems Development student at SENAI, with a strong interest in engineering, technology and continuous learning. I use this profile to study, document projects, experiments, and my progress in the areas of development, automation, and robotics.
 </p>
 <p align="left">
-  <img src="https://flagcdn.com/w20/us.png"> : I am a Systems Development student at SENAI, with a strong interest in engineering, technology and continuous learning. I use this profile to study, document projects, experiments, and my progress in the areas of development, automation, and robotics.
+  <img src="https://flagcdn.com/w20/br.png"> : Sou estudante de Desenvolvimento de Sistemas pelo SENAI, com forte interesse em engenharia, tecnologia e aprendizado contínuo. Utilizo este perfil para estudar, registrar projetos, experimentos e minha evolução na área de desenvolvimento, automação e robótica.
 </p>
 
 ###
@@ -42,31 +42,49 @@
 
 ###
 
-<h3 align="left">Tools & Frameworks</h3>
+<h3 align="left">Tools, Frameworks & Environments</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
+  <img src="https://cdn.simpleicons.org/arduino" height="40" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/00979D" height="40" alt="laravel logo"  />
+
+  <img src="https://cdn.simpleicons.org/laravel" height="40" alt="laravel logo"  />
   <img width="12" />
+  
+  <img src="https://cdn.simpleicons.org/docker" height="40" alt="docker logo"  />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  
+  <img src="https://cdn.simpleicons.org/n8n" height="40" alt="n8n logo"  />
+  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
+  
   <img src="https://static.wikia.nocookie.net/logopedia/images/4/4a/Google_Antigravity_icon.svg/revision/latest/scale-to-width-down/1200?cb=20251119202403" height="40" alt="antigravity logo"  />
   <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   </picture>
-  <picture>
+  
+</div>
+  
 
 ###
     
@@ -76,7 +94,6 @@
 <p>Connect with me!</p>
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-1586D6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-augusto-rocha)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miguelito_rochaa)
 <a href="mailto:miguelaugustorocha2008@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" target="_blank">
 </a>
