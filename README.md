@@ -108,10 +108,10 @@
 <div align="center">
   
   <a href="https://www.youtube.com/watch?v=ISrXh4dWZ-U">
-    <img align="left" src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DISrXh4dWZ-U&theme=terminal" alt="SoundBadge" hspace="8.5%" />
+    <img align="left" src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DISrXh4dWZ-U&theme=terminal" alt="SoundBadge"/>
   </a>
 
-  <div align="left">
+  <div align="center">
     <br><br>
     <b>Connect with me!</b>
     <br><br>
