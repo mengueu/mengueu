@@ -106,24 +106,31 @@
     
 ---
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=ISrXh4dWZ-U">
-    <img align="left" src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DISrXh4dWZ-U&theme=terminal" alt="SoundBadge" hspace="10%" />
-  </a>
-  <br><br>
   
-  <b>Connect with me!</b>
-
-  [![Linkedin](https://img.shields.io/badge/Linkedin-1586D6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-augusto-rocha)
-  <a href="mailto:miguelaugustorocha2008@gmail.com">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" target="_blank">
+  <a href="https://www.youtube.com/watch?v=ISrXh4dWZ-U">
+    <img align="left" src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DISrXh4dWZ-U&theme=terminal" alt="SoundBadge" hspace="8.5%" />
   </a>
-</div>
-<br><br><br>
 
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mengueu/mengueu/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mengueu/mengueu/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mengueu/mengueu/output/pacman-contribution-graph.svg">
-</picture>
+  <div align="left">
+    <br><br>
+    <b>Connect with me!</b>
+    <br><br>
+    <a href="https://www.linkedin.com/in/miguel-augusto-rocha">
+      <img src="https://img.shields.io/badge/Linkedin-1586D6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+    </a>
+    <a href="mailto:miguelaugustorocha2008@gmail.com">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" target="_blank">
+    </a>
+  </div>
+  
+</div>
+<br clear="all"><br><br>
+
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mengueu/mengueu/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mengueu/mengueu/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mengueu/mengueu/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
