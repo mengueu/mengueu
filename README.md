@@ -105,23 +105,25 @@
 ###
     
 ---
-<div align="center">
+<div>
   
   <a href="https://www.youtube.com/watch?v=ISrXh4dWZ-U">
     <img align="left" src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DISrXh4dWZ-U&theme=terminal" alt="SoundBadge"/>
   </a>
+  <br>
 
-  <div align="center">
-    <br><br>
-    <b>Connect with me!</b>
-    <br><br>
-    <a href="https://www.linkedin.com/in/miguel-augusto-rocha">
-      <img src="https://img.shields.io/badge/Linkedin-1586D6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-    </a>
-    <a href="mailto:miguelaugustorocha2008@gmail.com">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" target="_blank">
-    </a>
-  </div>
+  <table align="center">
+  <tr>
+    <td align="center">
+      <br>
+      <b>Connect with me!</b>
+      <br><br>
+      <a href="https://www.linkedin.com/in/miguel-augusto-rocha"><img src="https://img.shields.io/badge/Linkedin-1586D6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+      <a href="mailto:miguelaugustorocha2008@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" target="_blank"></a>
+      <br><br>
+    </td>
+  </tr>
+</table>
   
 </div>
 <br clear="all"><br><br>
